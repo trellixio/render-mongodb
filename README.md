@@ -10,7 +10,7 @@ The [`Dockerfile`](./Dockerfile) on the `master` branch points to latest stable 
 
 Use the button below to deploy MongoDB on Render.
 
-[![Deploy to Render](http://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
+[![Deploy to Render](http://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/trellixio/render-mongodb)
 
 ### Manual
 
